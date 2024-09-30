@@ -1,0 +1,59 @@
+.trump{
+    letter-spacing: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.name{
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+    color: red;
+    display: inline-block;
+}
+
+.USA{
+    
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.U{
+    letter-spacing: 0px;
+    margin-top: 0px;
+    background-color: grey;
+    display: inline-block;
+    color: blue;
+}
+
+
+.S{
+    letter-spacing: 0px;
+    margin-top: 0px;
+    background-color: grey;
+    display: inline-block;
+    color: white;
+}
+
+
+.A{
+    letter-spacing: 0px;
+    margin-top: 0px;
+    background-color: grey;
+    display: inline-block;
+    color: red;
+}
+
+.line{
+
+    margin-top: 0px;
+}
+
+.orangeman{
+    text-align: center;
+    margin-left: 625px;
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    border: 10px solid black;
+}
